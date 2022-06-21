@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "./static/css/main.3ef3e2d1.css",
+    "main.js": "./static/js/main.019b5df8.js",
+    "static/js/787.02f3e276.chunk.js": "./static/js/787.02f3e276.chunk.js",
+    "static/media/Boulevard.mp4": "./static/media/Boulevard.87029d706ed996ce24a1.mp4",
+    "static/media/background3.jpg": "./static/media/background3.e535e4f7c84485295ca4.jpg",
+    "static/media/background2.jpg": "./static/media/background2.ba6f5801c633f72f5b10.jpg",
+    "static/media/background1.jpg": "./static/media/background1.63b7a569f1c48c80e79b.jpg",
+    "static/media/course2.jpg": "./static/media/course2.ddda9786747bf617ebbb.jpg",
+    "static/media/person1.jpg": "./static/media/person1.a3a0c7bd99246312a04e.jpg",
+    "static/media/course1.jpg": "./static/media/course1.33589a5e9dcdcdc18f55.jpg",
+    "static/media/person2.jpg": "./static/media/person2.17348b45e5fe4865c228.jpg",
+    "static/media/g-2.jpg": "./static/media/g-2.c99858bfd4851aee396c.jpg",
+    "static/media/course3.jpg": "./static/media/course3.83959b9a75334614ff72.jpg",
+    "static/media/g-1.jpg": "./static/media/g-1.78ace8530ca3e86d8e3e.jpg",
+    "static/media/themify.svg?-fvbane": "./static/media/themify.c4292f34297f1004471a.svg",
+    "static/media/g-3.jpg": "./static/media/g-3.0c48bf48b2c3c833b726.jpg",
+    "static/media/themify.eot": "./static/media/themify.9bad94440d49256265a5.eot",
+    "static/media/themify.ttf?-fvbane": "./static/media/themify.eda8b94308c6f538f04a.ttf",
+    "static/media/themify.woff?-fvbane": "./static/media/themify.29b39089170885ae2967.woff",
+    "index.html": "./index.html",
+    "main.3ef3e2d1.css.map": "./static/css/main.3ef3e2d1.css.map",
+    "main.019b5df8.js.map": "./static/js/main.019b5df8.js.map",
+    "787.02f3e276.chunk.js.map": "./static/js/787.02f3e276.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ef3e2d1.css",
+    "static/js/main.019b5df8.js"
+  ]
+}
